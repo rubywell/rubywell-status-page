@@ -5,10 +5,16 @@ repo: rubywell-status-page # The name of this repository
 sites:
   - name: Rubywell
     url: https://rubywell.com
+    assignees:
+      - oleh-rubywell
   - name: Rubywell Admin App
     url: https://admin.rubywell.com
+    assignees:
+      - oleh-rubywell
   - name: Rubywell Consumer App
     url: https://app.rubywell.com
+    assignees:
+      - oleh-rubywell
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
