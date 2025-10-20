@@ -44,19 +44,19 @@
     "url": "https://app.rubywell.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.rubywell.com.ico",
     "slug": "rubywell-consumer-app",
-    "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "89.26%",
-    "uptimeWeek": "98.47%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.55%",
-    "time": 1501,
-    "timeDay": 1756,
-    "timeWeek": 1605,
-    "timeMonth": 1501,
-    "timeYear": 1501,
+    "status": "up",
+    "uptime": "99.51%",
+    "uptimeDay": "88.18%",
+    "uptimeWeek": "98.31%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.51%",
+    "time": 1505,
+    "timeDay": 1747,
+    "timeWeek": 1609,
+    "timeMonth": 1505,
+    "timeYear": 1505,
     "dailyMinutesDown": {
-      "2025-10-20": 154
+      "2025-10-20": 170
     }
   }
 ]
