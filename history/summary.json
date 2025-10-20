@@ -24,17 +24,17 @@
     "url": "https://admin.rubywell.com",
     "icon": "https://icons.duckduckgo.com/ip3/admin.rubywell.com.ico",
     "slug": "rubywell-admin-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "87.71%",
+    "uptimeDay": "87.70%",
     "uptimeWeek": "98.24%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.49%",
-    "time": 3253,
-    "timeDay": 5891,
-    "timeWeek": 4585,
-    "timeMonth": 3253,
-    "timeYear": 3253,
+    "time": 3207,
+    "timeDay": 5371,
+    "timeWeek": 4381,
+    "timeMonth": 3207,
+    "timeYear": 3207,
     "dailyMinutesDown": {
       "2025-10-20": 177
     }
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.rubywell.com.ico",
     "slug": "rubywell-consumer-app",
     "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "90.85%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
+    "uptime": "99.66%",
+    "uptimeDay": "91.70%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
     "time": 1541,
     "timeDay": 2013,
     "timeWeek": 1720,
     "timeMonth": 1541,
     "timeYear": 1541,
     "dailyMinutesDown": {
-      "2025-10-20": 131
+      "2025-10-20": 119
     }
   }
 ]
