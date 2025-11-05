@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 601,
-    "timeDay": 744,
+    "time": 605,
+    "timeDay": 795,
     "timeWeek": 638,
-    "timeMonth": 597,
-    "timeYear": 601,
+    "timeMonth": 605,
+    "timeYear": 605,
     "dailyMinutesDown": {
       "2025-10-20": 16
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.rubywell.com.ico",
     "slug": "rubywell-admin-app",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.47%",
-    "uptimeYear": "99.58%",
-    "time": 2721,
-    "timeDay": 543,
-    "timeWeek": 2362,
-    "timeMonth": 2844,
-    "timeYear": 2721,
+    "uptimeYear": "99.59%",
+    "time": 2729,
+    "timeDay": 3129,
+    "timeWeek": 2374,
+    "timeMonth": 2848,
+    "timeYear": 2729,
     "dailyMinutesDown": {
       "2025-10-20": 233
     }
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.rubywell.com.ico",
     "slug": "rubywell-consumer-app",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
-    "uptimeYear": "99.69%",
-    "time": 1495,
-    "timeDay": 1953,
-    "timeWeek": 1407,
-    "timeMonth": 1543,
-    "timeYear": 1495,
+    "uptimeYear": "99.70%",
+    "time": 1507,
+    "timeDay": 2097,
+    "timeWeek": 1453,
+    "timeMonth": 1552,
+    "timeYear": 1507,
     "dailyMinutesDown": {
       "2025-10-20": 170
     }
