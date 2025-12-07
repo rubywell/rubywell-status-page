@@ -6,15 +6,15 @@
     "slug": "rubywell",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.10%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 614,
-    "timeDay": 568,
-    "timeWeek": 589,
+    "time": 616,
+    "timeDay": 761,
+    "timeWeek": 609,
     "timeMonth": 627,
-    "timeYear": 614,
+    "timeYear": 616,
     "dailyMinutesDown": {
       "2025-12-05": 27,
       "2025-10-20": 16
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
-    "time": 2536,
-    "timeDay": 3081,
-    "timeWeek": 2452,
-    "timeMonth": 2176,
-    "timeYear": 2536,
+    "time": 2542,
+    "timeDay": 3021,
+    "timeWeek": 2482,
+    "timeMonth": 2254,
+    "timeYear": 2542,
     "dailyMinutesDown": {
       "2025-10-20": 233
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 1561,
-    "timeDay": 1886,
-    "timeWeek": 1622,
+    "time": 1565,
+    "timeDay": 1870,
+    "timeWeek": 1835,
     "timeMonth": 1643,
-    "timeYear": 1561,
+    "timeYear": 1565,
     "dailyMinutesDown": {
       "2025-10-20": 170
     }
