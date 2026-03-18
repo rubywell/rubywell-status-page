@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 557,
-    "timeDay": 703,
-    "timeWeek": 593,
-    "timeMonth": 499,
-    "timeYear": 557,
+    "time": 556,
+    "timeDay": 532,
+    "timeWeek": 564,
+    "timeMonth": 495,
+    "timeYear": 556,
     "dailyMinutesDown": {
       "2025-12-05": 27,
       "2025-10-20": 16
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.90%",
-    "time": 2696,
-    "timeDay": 2757,
-    "timeWeek": 3700,
-    "timeMonth": 3443,
-    "timeYear": 2696,
+    "time": 2684,
+    "timeDay": 1530,
+    "timeWeek": 3275,
+    "timeMonth": 3342,
+    "timeYear": 2684,
     "dailyMinutesDown": {
       "2026-02-26": 21,
       "2025-10-20": 233
@@ -48,9 +48,9 @@
     "slug": "rubywell-consumer-app",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.93%",
     "time": 1692,
     "timeDay": 4420,
@@ -58,7 +58,7 @@
     "timeMonth": 2081,
     "timeYear": 1692,
     "dailyMinutesDown": {
-      "2026-03-18": 0,
+      "2026-03-18": 6,
       "2025-10-20": 170
     }
   }
