@@ -32,8 +32,9 @@ status-website:
       href: https://rubywell.com
     - title: Admin App
       href: https://admin.rubywell.com
-    - title: Consumer App
-      href: https://app.rubywell.com
+    # Temporary disabled
+    # - title: Consumer App
+    #  href: https://app.rubywell.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
