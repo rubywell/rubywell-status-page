@@ -25,17 +25,17 @@
     "url": "https://admin.rubywell.com",
     "icon": "https://icons.duckduckgo.com/ip3/admin.rubywell.com.ico",
     "slug": "rubywell-admin-app",
-    "status": "down",
-    "uptime": "99.57%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.57%",
-    "time": 2522,
-    "timeDay": 1431,
-    "timeWeek": 2231,
-    "timeMonth": 2430,
-    "timeYear": 2522,
+    "status": "up",
+    "uptime": "99.56%",
+    "uptimeDay": "94.90%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.56%",
+    "time": 2516,
+    "timeDay": 1055,
+    "timeWeek": 2017,
+    "timeMonth": 2365,
+    "timeYear": 2516,
     "dailyMinutesDown": {
       "2025-10-20": 233,
       "2026-02-26": 21,
@@ -53,7 +53,7 @@
       "2026-06-18": 157,
       "2026-06-20": 93,
       "2026-06-30": 37,
-      "2026-07-27": 0
+      "2026-07-27": 73
     }
   },
   {
