@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 493,
-    "timeDay": 548,
-    "timeWeek": 423,
+    "time": 492,
+    "timeDay": 379,
+    "timeWeek": 399,
     "timeMonth": 392,
-    "timeYear": 493,
+    "timeYear": 492,
     "dailyMinutesDown": {
       "2025-10-20": 16,
       "2025-12-05": 27
@@ -27,14 +27,14 @@
     "slug": "rubywell-admin-app",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.59%",
     "time": 2478,
-    "timeDay": 1235,
-    "timeWeek": 1477,
-    "timeMonth": 1979,
+    "timeDay": 1028,
+    "timeWeek": 1741,
+    "timeMonth": 1997,
     "timeYear": 2478,
     "dailyMinutesDown": {
       "2025-10-20": 233,
@@ -55,8 +55,7 @@
       "2026-06-30": 37,
       "2026-07-27": 73,
       "2026-08-04": 28,
-      "2026-08-11": 40,
-      "2026-09-04": 11
+      "2026-08-11": 40
     }
   },
   {
